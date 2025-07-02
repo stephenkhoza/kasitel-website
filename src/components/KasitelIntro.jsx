@@ -30,12 +30,12 @@ function KasitelIntro() {
                 </p>
                 <p>
                     The targeted outcome of these linkages is to enable a broader participation in an ICT
-                    ecosystem where previously disadvantaged individuals can increase their role at large.
+                    ecosystem where previously disadvantaged individuals can also meaningfully contribute and extract benefits. In the process, employment opportunities and sustainable jobs can therefore be created.
                 </p>
 
                 <h3 className="sub-heading">Services offered by Kasitel include:</h3>
                 <ul className="services-list">
-                    <li>Sourcing of equipment, parts, components.</li>
+                    <li>Sourcing of equipment, parts and components.</li>
                     <li>Organisation of training, coaching and mentoring activities.</li>
                     <li>Project management and consulting.</li>
                 </ul>
