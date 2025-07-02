@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kasitel-website/static/css/main.5d698121.css",
-    "main.js": "/kasitel-website/static/js/main.9215ca00.js",
+    "main.js": "/kasitel-website/static/js/main.655ddb0e.js",
     "static/js/453.a232c665.chunk.js": "/kasitel-website/static/js/453.a232c665.chunk.js",
     "static/media/laptop.jpg": "/kasitel-website/static/media/laptop.53f56bc9e17f3e495b44.jpg",
     "static/media/phone.jpg": "/kasitel-website/static/media/phone.ee2d0f715a77923836d0.jpg",
@@ -10,11 +10,11 @@
     "static/media/kasitel-logo.jpg": "/kasitel-website/static/media/kasitel-logo.4c8f0374bd4839ec50e5.jpg",
     "index.html": "/kasitel-website/index.html",
     "main.5d698121.css.map": "/kasitel-website/static/css/main.5d698121.css.map",
-    "main.9215ca00.js.map": "/kasitel-website/static/js/main.9215ca00.js.map",
+    "main.655ddb0e.js.map": "/kasitel-website/static/js/main.655ddb0e.js.map",
     "453.a232c665.chunk.js.map": "/kasitel-website/static/js/453.a232c665.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d698121.css",
-    "static/js/main.9215ca00.js"
+    "static/js/main.655ddb0e.js"
   ]
 }
